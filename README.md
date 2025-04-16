@@ -22,8 +22,8 @@ Follow these steps to set up and run the project locally.
 
 ### Step 1: Clone the Repository
 
-git clone https://github.com/your-repo/your-project.git
-cd your-project
+git clone https://github.com/Josemi937/backend-api.git
+cd backend-api
 
 ### Step 2: Install dependencies and Run the APP.
 
